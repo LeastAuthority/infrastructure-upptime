@@ -18,7 +18,7 @@ sites:
 status-website:
   baseUrl: /infrastructure-upptime
   logoUrl: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/upptime-icon.svg
-  name: Org Members
+  name: Infrastructure
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by [GitHub](https://github.com/LeastAuthority/infrastructure-upptime)."
   introMessage: This site monitors the resources powering the infrastructure of [Least Authority](https://leastauthority.com/)
   navbar:
