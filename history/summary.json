@@ -40,19 +40,19 @@
     "url": "$URL_MONITORING_HC",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-hc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 719,
-    "timeWeek": 643,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 635,
+    "timeDay": 617,
+    "timeWeek": 627,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-11-20": 0
+      "2023-11-20": 22
     }
   },
   {
