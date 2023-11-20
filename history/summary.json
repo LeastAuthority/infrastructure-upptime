@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 505,
-    "timeWeek": 718,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "time": 712,
+    "timeDay": 845,
+    "timeWeek": 714,
+    "timeMonth": 712,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 594,
-    "timeWeek": 730,
-    "timeMonth": 705,
-    "timeYear": 705,
+    "time": 707,
+    "timeDay": 735,
+    "timeWeek": 721,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "$URL_MONITORING_HC",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-hc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 523,
-    "timeWeek": 642,
-    "timeMonth": 637,
-    "timeYear": 637,
-    "dailyMinutesDown": {}
+    "time": 642,
+    "timeDay": 719,
+    "timeWeek": 643,
+    "timeMonth": 642,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Grafana - PS",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 567,
-    "timeWeek": 680,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 788,
+    "timeDay": 891,
+    "timeWeek": 711,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   }
 ]
