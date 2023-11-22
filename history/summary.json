@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 845,
-    "timeWeek": 714,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "time": 706,
+    "timeDay": 610,
+    "timeWeek": 722,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 735,
-    "timeWeek": 721,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "time": 696,
+    "timeDay": 512,
+    "timeWeek": 720,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "grafana-hc",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 635,
-    "timeDay": 617,
-    "timeWeek": 627,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "time": 631,
+    "timeDay": 558,
+    "timeWeek": 636,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2023-11-20": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 891,
-    "timeWeek": 711,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 785,
+    "timeDay": 732,
+    "timeWeek": 723,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   }
 ]
