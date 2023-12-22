@@ -4,7 +4,7 @@
     "url": "$URL_MONITORING_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-la",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
     "uptimeDay": "63.07%",
     "uptimeWeek": "85.93%",
