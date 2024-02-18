@@ -35,19 +35,19 @@
     "url": "$URL_MONITORING_MW",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-mw",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 437,
-    "timeWeek": 621,
-    "timeMonth": 666,
-    "timeYear": 680,
+    "time": 683,
+    "timeDay": 688,
+    "timeWeek": 660,
+    "timeMonth": 675,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 6
     }
   },
   {
