@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-la",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.61%",
+    "uptimeYear": "98.62%",
     "time": 2724,
     "timeDay": 606,
     "timeWeek": 677,
@@ -57,18 +57,18 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-hc",
     "status": "down",
-    "uptime": "66.73%",
+    "uptime": "66.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.73%",
+    "uptimeYear": "66.57%",
     "time": 606,
     "timeDay": 418,
     "timeWeek": 457,
     "timeMonth": 459,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-04-24": 3,
+      "2024-04-24": 596,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
@@ -136,9 +136,9 @@
     "url": "$URL_MONITORING_PS",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +147,8 @@
     "timeWeek": 668,
     "timeMonth": 630,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   }
 ]
