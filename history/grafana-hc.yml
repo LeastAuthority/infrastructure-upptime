@@ -1,7 +1,7 @@
 url: $URL_MONITORING_HC
-status: down
-code: 502
-responseTime: 385
-lastUpdated: 2025-01-12T23:00:26.919Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2025-01-13T19:55:15.630Z
 startTime: 2023-11-06T11:38:54.541Z
 generator: Upptime <https://github.com/upptime/upptime>
