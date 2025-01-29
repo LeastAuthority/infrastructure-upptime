@@ -6,9 +6,9 @@
     "slug": "grafana-la",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 898,
     "timeDay": 949,
@@ -16,7 +16,6 @@
     "timeMonth": 863,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-01-28": 10,
       "2024-08-30": 15,
       "2024-08-13": 117,
       "2024-07-05": 477,
@@ -31,9 +30,9 @@
     "slug": "grafana-mw",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 682,
     "timeDay": 608,
@@ -41,7 +40,6 @@
     "timeMonth": 726,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2025-01-28": 9,
       "2024-09-30": 417,
       "2024-05-21": 44
     }
