@@ -8,9 +8,6 @@ sites:
   - name: Grafana - MW
     icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png
     url: $URL_MONITORING_MW
-  - name: Grafana - HC
-    icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png
-    url: $URL_MONITORING_HC
   - name: Grafana - PS
     icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png
     url: $URL_MONITORING_PS
