@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-la",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 848,
-    "timeDay": 1372,
+    "time": 849,
+    "timeDay": 1279,
     "timeWeek": 1156,
-    "timeMonth": 1054,
-    "timeYear": 906,
+    "timeMonth": 1067,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2024-08-30": 15,
       "2024-08-13": 117
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 756,
-    "timeDay": 792,
-    "timeWeek": 911,
-    "timeMonth": 926,
-    "timeYear": 780,
+    "time": 758,
+    "timeDay": 1369,
+    "timeWeek": 951,
+    "timeMonth": 949,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2024-09-30": 417
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 707,
-    "timeDay": 585,
-    "timeWeek": 825,
-    "timeMonth": 824,
-    "timeYear": 727,
+    "time": 708,
+    "timeDay": 1047,
+    "timeWeek": 819,
+    "timeMonth": 836,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-06-16": 34
     }
