@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 1291,
-    "timeWeek": 1234,
-    "timeMonth": 1055,
+    "time": 876,
+    "timeDay": 841,
+    "timeWeek": 1126,
+    "timeMonth": 1053,
     "timeYear": 935,
-    "dailyMinutesDown": {
-      "2024-08-30": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana - MW",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 772,
-    "timeDay": 1142,
-    "timeWeek": 1058,
-    "timeMonth": 917,
+    "timeDay": 719,
+    "timeWeek": 1027,
+    "timeMonth": 916,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2024-09-30": 417
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 723,
-    "timeDay": 911,
-    "timeWeek": 965,
-    "timeMonth": 838,
+    "timeDay": 564,
+    "timeWeek": 939,
+    "timeMonth": 835,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2025-06-16": 34
