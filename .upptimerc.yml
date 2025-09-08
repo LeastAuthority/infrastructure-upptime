@@ -11,6 +11,26 @@ sites:
   - name: Grafana - PS
     icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png
     url: $URL_MONITORING_PS
+  - name: Magic Wormhole - mailbox STAGE
+    url: https://mailbox.stage.mw.leastauthority.com/
+  - name: Magic Wormhole - relay STAGE
+    url: https://transit.stage.mw.leastauthority.com/
+  - name: LimeSurvey - STAGE
+    url: $URL_LIMESURVEY_STAGE
+    expectedStatusCodes:
+      - 200
+  - name: SnipeIT - STAGE
+    url: $URL_SNIPEIT_STAGE
+    expectedStatusCodes:
+      - 200
+  - name: SuiteCRM - STAGE
+    url: $URL_SUITECRM_STAGE
+    expectedStatusCodes:
+      - 200
+  - name: Zulip - EVAL
+    url: $URL_ZULIP_EVAL
+    expectedStatusCodes:
+      - 200
 
 status-website:
   baseUrl: /infrastructure-upptime
