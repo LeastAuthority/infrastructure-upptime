@@ -1,7 +1,7 @@
 url: https://transit.stage.mw.leastauthority.com/
-status: down
-code: 502
-responseTime: 594
-lastUpdated: 2025-09-09T12:53:04.907Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2025-09-09T13:38:35.223Z
 startTime: 2025-09-08T17:56:36.350Z
 generator: Upptime <https://github.com/upptime/upptime>
