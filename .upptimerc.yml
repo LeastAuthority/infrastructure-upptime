@@ -32,7 +32,8 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Phreeli - Mix2 - STAGE
-    url: $ https://mix-stage2.phreeli.latfa.net/mix/health
+    url: https://mix-stage2.phreeli.latfa.net/mix/health
+    __dangerous__body_degraded_if_text_missing: '"status":"ok"'
 
 status-website:
   baseUrl: /infrastructure-upptime
