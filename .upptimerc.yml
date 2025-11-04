@@ -31,6 +31,9 @@ sites:
     url: $URL_ZULIP_EVAL
     expectedStatusCodes:
       - 200
+  - name: Phreeli Mix - STAGE2
+    url: $ https://mix1.phreeli.latfa.net/mix/health
+    __dangerous__body_degraded_if_text_missing: '"status":"ok"'
 
 status-website:
   baseUrl: /infrastructure-upptime
