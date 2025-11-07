@@ -32,10 +32,11 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Phreeli - mix - STAGE
-    url: $URL_PHREELIMIX_STAGE
+    url: ${URL_PHREELIMIX_STAGE}
     __dangerous__body_degraded_if_text_missing: '"status":"ok"'
+    verbose: true
   - name: Phreeli - mix2 - STAGE
-    url: $URL_PHREELIMIX_STAGE2
+    url: ${URL_PHREELIMIX_STAGE2}
     __dangerous__body_degraded_if_text_missing: '"status":"ok"'
     verbose: true
 
