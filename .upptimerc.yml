@@ -31,6 +31,9 @@ sites:
     url: $URL_ZULIP_EVAL
     expectedStatusCodes:
       - 200
+  - name: Phreeli - mix - STAGE
+    url: $URL_PHREELIMIX_STAGE
+    __dangerous__body_degraded_if_text_missing: '"status":"ok"'
   - name: Phreeli - mix2 - STAGE
     url: $URL_PHREELIMIX_STAGE2
     __dangerous__body_degraded_if_text_missing: '"status":"ok"'
