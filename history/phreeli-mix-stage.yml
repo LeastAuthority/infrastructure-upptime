@@ -1,7 +1,7 @@
-url: ${URL_PHREELIMIX_STAGE}
+url: $URL_PHREELIMIX_STAGE
 status: degraded
 code: 0
 responseTime: 0
-lastUpdated: 2025-11-07T11:11:07.571Z
+lastUpdated: 2025-11-07T11:15:08.485Z
 startTime: 2025-11-07T10:44:40.454Z
 generator: Upptime <https://github.com/upptime/upptime>
