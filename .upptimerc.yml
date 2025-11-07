@@ -37,6 +37,7 @@ sites:
   - name: Phreeli - mix2 - STAGE
     url: $URL_PHREELIMIX_STAGE2
     __dangerous__body_degraded_if_text_missing: '"status":"ok"'
+    verbose: true
 
 status-website:
   baseUrl: /infrastructure-upptime
