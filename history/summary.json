@@ -13,7 +13,7 @@
     "time": 945,
     "timeDay": 994,
     "timeWeek": 911,
-    "timeMonth": 1023,
+    "timeMonth": 1041,
     "timeYear": 981,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 839,
     "timeDay": 1401,
     "timeWeek": 1066,
-    "timeMonth": 1041,
+    "timeMonth": 1063,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 762,
     "timeDay": 1040,
     "timeWeek": 822,
-    "timeMonth": 820,
+    "timeMonth": 833,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2025-09-09": 10,
@@ -70,7 +70,7 @@
     "time": 737,
     "timeDay": 1616,
     "timeWeek": 783,
-    "timeMonth": 768,
+    "timeMonth": 772,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-09-09": 76
@@ -82,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/transit.stage.mw.leastauthority.com.ico",
     "slug": "magic-wormhole-relay-stage",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 652,
     "timeDay": 1008,
     "timeWeek": 694,
-    "timeMonth": 653,
+    "timeMonth": 663,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2025-09-09": 665,
@@ -102,17 +102,17 @@
     "url": "$URL_LIMESURVEY_STAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lime-survey-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 911,
-    "timeWeek": 912,
-    "timeMonth": 1110,
-    "timeYear": 1104,
+    "time": 1101,
+    "timeDay": 868,
+    "timeWeek": 901,
+    "timeMonth": 1109,
+    "timeYear": 1101,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +129,7 @@
     "time": 1785,
     "timeDay": 1688,
     "timeWeek": 1590,
-    "timeMonth": 1701,
+    "timeMonth": 1705,
     "timeYear": 1785,
     "dailyMinutesDown": {}
   },
@@ -147,7 +147,7 @@
     "time": 1329,
     "timeDay": 1290,
     "timeWeek": 1167,
-    "timeMonth": 1272,
+    "timeMonth": 1271,
     "timeYear": 1329,
     "dailyMinutesDown": {}
   },
@@ -165,7 +165,7 @@
     "time": 1049,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1052,
+    "timeMonth": 1058,
     "timeYear": 1049,
     "dailyMinutesDown": {}
   }
