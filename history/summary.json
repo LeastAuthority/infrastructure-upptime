@@ -156,17 +156,17 @@
     "url": "$URL_ZULIP_EVAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zulip-eval",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1210,
-    "timeWeek": 996,
-    "timeMonth": 935,
-    "timeYear": 1017,
+    "time": 1013,
+    "timeDay": 845,
+    "timeWeek": 931,
+    "timeMonth": 921,
+    "timeYear": 1013,
     "dailyMinutesDown": {}
   }
 ]
