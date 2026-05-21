@@ -31,6 +31,21 @@ sites:
     url: $URL_ZULIP_EVAL
     expectedStatusCodes:
       - 200
+  - name: SMTP - LA
+    icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png
+    check: "tcp-ping"
+    url: mail.latfa.net
+    port: 25
+  - name: SMTP/SSL - LA
+    icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png
+    check: "tcp-ping"
+    url: mail.latfa.net
+    port: 465
+  - name: IMAP/SSL - LA
+    icon: https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/dovecot.png
+    check: "tcp-ping"
+    url: mail.latfa.net
+    port: 993
 
 status-website:
   baseUrl: /infrastructure-upptime
