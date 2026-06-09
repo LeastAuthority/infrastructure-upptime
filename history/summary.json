@@ -188,19 +188,19 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-la",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 164,
-    "timeWeek": 135,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "98.25%",
+    "uptimeDay": "66.98%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
+    "time": 144,
+    "timeDay": 166,
+    "timeWeek": 139,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-06-09": 1
+      "2026-06-09": 475
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-ssl-la",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 166,
-    "timeWeek": 134,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "status": "up",
+    "uptime": "98.25%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
+    "time": 144,
+    "timeDay": 167,
+    "timeWeek": 138,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-06-09": 0
+      "2026-06-09": 475
     }
   },
   {
