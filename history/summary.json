@@ -47,15 +47,15 @@
     "url": "$URL_MONITORING_PS",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-ps",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.48%",
     "time": 815,
-    "timeDay": 548,
-    "timeWeek": 903,
+    "timeDay": 656,
+    "timeWeek": 886,
     "timeMonth": 779,
     "timeYear": 816,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
       "2026-02-04": 1440,
       "2026-02-03": 219,
       "2026-06-30": 43,
-      "2026-07-27": 0
+      "2026-07-27": 36
     }
   },
   {
