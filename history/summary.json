@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailbox.stage.mw.leastauthority.com.ico",
     "slug": "magic-wormhole-mailbox-stage",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 720,
     "timeDay": 669,
     "timeWeek": 745,
@@ -189,10 +189,10 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.62%",
     "time": 143,
@@ -202,7 +202,8 @@
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-06-09": 475,
-      "2026-08-05": 39
+      "2026-08-05": 39,
+      "2026-08-24": 1
     }
   },
   {
