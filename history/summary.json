@@ -189,21 +189,21 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-la",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.61%",
     "time": 143,
-    "timeDay": 167,
-    "timeWeek": 157,
+    "timeDay": 153,
+    "timeWeek": 155,
     "timeMonth": 149,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-06-09": 475,
       "2026-08-05": 39,
-      "2026-08-24": 1
+      "2026-08-24": 20
     }
   },
   {
