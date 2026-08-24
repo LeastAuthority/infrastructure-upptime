@@ -1,7 +1,7 @@
 url: $URL_MONITORING_MW
-status: up
-code: 200
-responseTime: 966
-lastUpdated: 2026-08-23T23:01:52.409Z
+status: down
+code: 502
+responseTime: 553
+lastUpdated: 2026-08-24T12:03:50.440Z
 startTime: 2023-11-06T11:38:53.371Z
 generator: Upptime <https://github.com/upptime/upptime>
