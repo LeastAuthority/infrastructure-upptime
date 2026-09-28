@@ -13,7 +13,7 @@
     "time": 960,
     "timeDay": 879,
     "timeWeek": 831,
-    "timeMonth": 864,
+    "timeMonth": 870,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2026-05-07": 822,
@@ -34,7 +34,7 @@
     "time": 933,
     "timeDay": 908,
     "timeWeek": 802,
-    "timeMonth": 900,
+    "timeMonth": 906,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2026-03-29": 33,
@@ -57,7 +57,7 @@
     "time": 817,
     "timeDay": 833,
     "timeWeek": 806,
-    "timeMonth": 825,
+    "timeMonth": 830,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2026-02-09": 506,
@@ -85,7 +85,7 @@
     "time": 718,
     "timeDay": 704,
     "timeWeek": 675,
-    "timeMonth": 701,
+    "timeMonth": 711,
     "timeYear": 716,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 670,
     "timeDay": 643,
     "timeWeek": 622,
-    "timeMonth": 664,
+    "timeMonth": 673,
     "timeYear": 671,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "$URL_LIMESURVEY_STAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lime-survey-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 823,
-    "timeWeek": 834,
-    "timeMonth": 844,
-    "timeYear": 895,
+    "time": 905,
+    "timeDay": 563,
+    "timeWeek": 767,
+    "timeMonth": 830,
+    "timeYear": 893,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1652,
     "timeDay": 1612,
     "timeWeek": 1592,
-    "timeMonth": 1647,
+    "timeMonth": 1658,
     "timeYear": 1639,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1287,
     "timeDay": 1176,
     "timeWeek": 1034,
-    "timeMonth": 1146,
+    "timeMonth": 1141,
     "timeYear": 1282,
     "dailyMinutesDown": {}
   },
@@ -166,17 +166,17 @@
     "url": "$URL_ZULIP_EVAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zulip-eval",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1031,
-    "timeDay": 1119,
-    "timeWeek": 1164,
-    "timeMonth": 1140,
-    "timeYear": 1029,
+    "time": 1029,
+    "timeDay": 799,
+    "timeWeek": 1078,
+    "timeMonth": 1128,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   },
   {
@@ -193,7 +193,7 @@
     "time": 143,
     "timeDay": 140,
     "timeWeek": 136,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-06-09": 475,
@@ -216,7 +216,7 @@
     "time": 143,
     "timeDay": 141,
     "timeWeek": 136,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-06-09": 475,
@@ -238,7 +238,7 @@
     "time": 142,
     "timeDay": 142,
     "timeWeek": 136,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2026-08-31": 6
