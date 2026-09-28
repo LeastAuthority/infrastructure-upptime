@@ -1,7 +1,7 @@
 url: $URL_LIMESURVEY_STAGE
-status: down
-code: 503
-responseTime: 303
-lastUpdated: 2026-09-28T08:38:26.187Z
+status: up
+code: 200
+responseTime: 1023
+lastUpdated: 2026-09-28T08:57:02.903Z
 startTime: 2025-09-08T17:56:38.014Z
 generator: Upptime <https://github.com/upptime/upptime>
