@@ -1,7 +1,7 @@
 url: $URL_MONITORING_PS
-status: down
-code: 502
-responseTime: 550
-lastUpdated: 2026-10-12T10:49:35.502Z
+status: up
+code: 200
+responseTime: 639
+lastUpdated: 2026-10-12T11:00:13.429Z
 startTime: 2023-11-06T11:38:55.460Z
 generator: Upptime <https://github.com/upptime/upptime>
