@@ -1,7 +1,7 @@
 url: $URL_ZULIP_EVAL
-status: down
-code: 404
-responseTime: 346
-lastUpdated: 2026-11-02T02:36:49.165Z
+status: up
+code: 200
+responseTime: 1560
+lastUpdated: 2026-11-02T02:43:39.548Z
 startTime: 2025-09-08T17:56:43.896Z
 generator: Upptime <https://github.com/upptime/upptime>
