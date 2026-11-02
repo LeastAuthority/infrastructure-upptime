@@ -1,7 +1,7 @@
 url: $URL_MONITORING_LA
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2026-11-01T23:00:22.597Z
+status: down
+code: 502
+responseTime: 343
+lastUpdated: 2026-11-02T14:14:16.778Z
 startTime: 2023-11-06T11:38:52.360Z
 generator: Upptime <https://github.com/upptime/upptime>
