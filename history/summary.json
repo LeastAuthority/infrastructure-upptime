@@ -4,20 +4,21 @@
     "url": "$URL_MONITORING_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 952,
-    "timeDay": 861,
-    "timeWeek": 822,
-    "timeMonth": 834,
-    "timeYear": 927,
+    "time": 951,
+    "timeDay": 602,
+    "timeWeek": 762,
+    "timeMonth": 819,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2026-05-07": 822,
-      "2026-05-06": 202
+      "2026-05-06": 202,
+      "2026-11-02": 0
     }
   },
   {
