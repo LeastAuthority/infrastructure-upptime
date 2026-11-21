@@ -141,7 +141,7 @@
     "time": 1609,
     "timeDay": 1670,
     "timeWeek": 1615,
-    "timeMonth": 1261,
+    "timeMonth": 1248,
     "timeYear": 1571,
     "dailyMinutesDown": {}
   },
@@ -159,7 +159,7 @@
     "time": 1261,
     "timeDay": 949,
     "timeWeek": 971,
-    "timeMonth": 1028,
+    "timeMonth": 1020,
     "timeYear": 1239,
     "dailyMinutesDown": {}
   },
@@ -186,7 +186,7 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
