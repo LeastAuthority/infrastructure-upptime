@@ -26,9 +26,9 @@
     "url": "$URL_MONITORING_MW",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/grafana-icon.png",
     "slug": "grafana-mw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -41,7 +41,8 @@
       "2026-03-29": 33,
       "2026-03-31": 69,
       "2026-06-03": 77,
-      "2026-08-24": 13
+      "2026-08-24": 13,
+      "2026-11-23": 0
     }
   },
   {
@@ -186,7 +187,7 @@
     "url": "mail.latfa.net",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/infrastructure-upptime/master/assets/postfix.png",
     "slug": "smtp-la",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -194,7 +195,7 @@
     "uptimeYear": "99.77%",
     "time": 143,
     "timeDay": 136,
-    "timeWeek": 143,
+    "timeWeek": 142,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
