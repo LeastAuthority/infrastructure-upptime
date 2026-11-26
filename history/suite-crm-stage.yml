@@ -1,7 +1,7 @@
 url: $URL_SUITECRM_STAGE
-status: down
-code: 404
-responseTime: 369
-lastUpdated: 2026-11-26T02:30:45.906Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2026-11-26T02:38:42.134Z
 startTime: 2025-09-08T17:56:42.127Z
 generator: Upptime <https://github.com/upptime/upptime>
